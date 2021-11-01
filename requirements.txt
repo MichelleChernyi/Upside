@@ -1,0 +1,15 @@
+# Upside 2021: Python libraries you'll be using for this application.
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=1.6.3
+
+# Graphics and data visualization
+tkinter
+
+# data analysis
+pandas~=1.2.4
+
+# image processing
+Pillow-PIL
